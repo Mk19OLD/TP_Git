@@ -48,3 +48,5 @@ Fonctions et classes amies
 std::move et le concept de déplacement
 Multithreading en C++ (introduction)
 je suis le conflit
+
+******NOUVELLE INFORMATION DANS LE FICHIER FILE*******
