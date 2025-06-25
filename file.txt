@@ -1,0 +1,49 @@
+Tableaux et Chaînes de Caractères
+
+Tableaux à une et deux dimensions
+Manipulation de chaînes de caractères (std::string)
+Parcours et opérations sur les tableaux
+Programmation Orientée Objet (POO)
+
+Concepts de base : classes et objets
+Constructeurs et destructeurs
+Encapsulation, héritage et polymorphisme
+Classes abstraites et interfaces
+Pointeurs et Références
+
+Introduction aux pointeurs et à la mémoire
+Utilisation de pointeurs avec des variables et des tableaux
+Pointeurs sur fonctions et pointeurs const
+Références et leur utilité
+Gestion Dynamique de la Mémoire
+
+Allocation dynamique : new et delete
+Gestion des erreurs de mémoire
+Smart pointers (std::unique_ptr, std::shared_ptr)
+Fichiers et Gestion des Flux
+
+Lecture et écriture dans les fichiers
+Manipulation de fichiers texte et binaire
+Streams en C++ (cin, cout, ifstream, ofstream)
+Les Conteneurs de la STL (Standard Template Library)
+
+Introduction à la STL
+Les conteneurs : vector, list, map, set
+Algorithmes de base (recherche, tri, insertion)
+Itérateurs et leurs utilisations
+Exceptions et Gestion des Erreurs
+
+Introduction à la gestion des exceptions
+Utilisation de try, catch, throw
+Exceptions standard et personnalisées
+Templates en C++
+
+Introduction aux templates de fonctions et de classes
+Avantages de l’utilisation de templates
+Templates et générique
+Les Techniques Avancées en C++
+
+Lambda expressions
+Fonctions et classes amies
+std::move et le concept de déplacement
+Multithreading en C++ (introduction)
